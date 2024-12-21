@@ -3,5 +3,5 @@
 
 void menu_comprimento();
 void menu_dados();
-
+int menu_potencia();
 #endif

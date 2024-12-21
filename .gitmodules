@@ -1,0 +1,3 @@
+[submodule "embarcatech-versionamento"]
+	path = embarcatech-versionamento
+	url = https://github.com/Al3ci0/embarcatech-versionamento
